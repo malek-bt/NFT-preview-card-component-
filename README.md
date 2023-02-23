@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Code on GitHub]()
-- Live Site URL: [GitHub Pages Live URL]()
+- Solution URL: [Code on GitHub](https://github.com/malek-bt/NFT-preview-card-component-)
+- Live Site URL: [GitHub Pages Live URL](https://malek-bt.github.io/NFT-preview-card-component-/)
 
 ## My process
 
